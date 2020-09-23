@@ -8,3 +8,30 @@ Note that there are still some bugs, but other than that, the code can be ran us
 usage: python3 ./warrung-buffet.py
 
 Don't be a sheep and follow these ratings when investing in stocks, this is just gonna give you a better idea of the current state of the stock.
+
+
+##############################
+####### WARUNG-BUFFET ########
+#### By: Ignatius Michael ####
+##############################
+
+                                         88         
+            ,d                           88         
+            88                           88         
+,adPPYba, MM88MMM ,adPPYba,  8b,dPPYba,  88   ,d8   
+I8[    ""   88   a8"     "8a 88P'   `"8a 88 ,a8"    
+ `"Y8ba,    88   8b       d8 88       88 8888[      
+aa    ]8I   88,  "8a,   ,a8" 88       88 88`"Yba,   
+`"YbbdP"'   "Y888 `"YbbdP"'  88       88 88   `Y8a  
+                                                    
+
+############################################################################################################################################################
+# This script was made because I was too lazy to do research on stock consensus rating.				  					   #
+# This script automates that and more. Please enjoy. This is called warung buffet because it's another version of "Warren Buffet" that old legend.	   #
+# However, this script does not have the ability to think like he does.						                                           #
+# Pretty much the rip off version of warren = warung (which is what we call an insanely good side-street 'restaurants' in Indonesia)		  	   #
+############################################################################################################################################################
+
+1. thestockmarketwatch.py is to grab consensus rating from thestockmarketwatch.com but only works for NASDAQ and NYSE
+2. warung-buffet.py is the main script to grab information from marketbeat.com (rating, price, gain/loss, how many times it has been analyzed)
+3. tipranks.py is to grab the consensus rating from tipranks.com works for any stock exchange
