@@ -10,7 +10,6 @@ usage: python3 ./warrung-buffet.py
 Don't be a sheep and follow these ratings when investing in stocks, this is just gonna give you a better idea of the current state of the stock.
 
 
-##############################
 ####### WARUNG-BUFFET ########
 #### By: Ignatius Michael ####
 ##############################
