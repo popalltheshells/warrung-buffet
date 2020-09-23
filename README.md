@@ -14,15 +14,6 @@ Don't be a sheep and follow these ratings when investing in stocks, this is just
 ####### WARUNG-BUFFET ########
 #### By: Ignatius Michael ####
 ##############################
-
-                                         88         
-            ,d                           88         
-            88                           88         
-,adPPYba, MM88MMM ,adPPYba,  8b,dPPYba,  88   ,d8   
-I8[    ""   88   a8"     "8a 88P'   `"8a 88 ,a8"    
- `"Y8ba,    88   8b       d8 88       88 8888[      
-aa    ]8I   88,  "8a,   ,a8" 88       88 88`"Yba,   
-`"YbbdP"'   "Y888 `"YbbdP"'  88       88 88   `Y8a  
                                                     
 
 ############################################################################################################################################################
