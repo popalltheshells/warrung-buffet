@@ -16,13 +16,12 @@ Don't be a sheep and follow these ratings when investing in stocks, this is just
 ##############################
                                                     
 
-############################################################################################################################################################
+############################################
 This script was made because I was too lazy to do research on stock consensus rating.				  					   
 This script automates that and more. Please enjoy. This is called warung buffet because it's another version of "Warren Buffet" that old legend.	   
 However, this script does not have the ability to think like he does.						                                           
 Pretty much the rip off version of warren = warung (which is what we call an insanely good street-side 'restaurants' in Indonesia)		  	   
-############################################################################################################################################################
-
+###########################################
 1. thestockmarketwatch.py is to grab consensus rating from thestockmarketwatch.com but only works for NASDAQ and NYSE
 2. warung-buffet.py is the main script to grab information from marketbeat.com (rating, price, gain/loss, how many times it has been analyzed)
 3. tipranks.py is to grab the consensus rating from tipranks.com works for any stock exchange
